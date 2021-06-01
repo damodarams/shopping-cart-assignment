@@ -1,9 +1,8 @@
-//import Layout from './components/Layout';
+import Layout from './components/Layout';
 
 const App = () => (
   <>
-    {/* <Layout /> */}
-    <h1>hello......</h1>
+    <Layout />
   </>
 );
 
